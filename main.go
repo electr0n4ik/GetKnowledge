@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"GetKnowledge/mymath"
+	"github.com/electr0n4ik/GetKnowledge/mymath"
 )
 
 func main() {

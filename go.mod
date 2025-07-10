@@ -2,6 +2,6 @@ module GetKnowledge
 
 go 1.24.4
 
-replace GetKnowledge/mymath => ./mymath
+replace github.com/electr0n4ik/GetKnowledge/mymath => ./mymath
 
-require GetKnowledge/mymath v0.0.0
+require github.com/electr0n4ik/GetKnowledge/mymath v0.0.0
